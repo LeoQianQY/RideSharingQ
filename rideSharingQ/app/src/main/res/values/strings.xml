@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">rideSharingQ</string>
+    <string name="test">Test</string>
+    <string name="register">Register</string>
+    <string name="cancel">cancel</string>
+    <string name="confirm">confirm</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_ridesharing">Welcome to rideSharing!</string>
+    <string name="first_order">First Order: </string>
+    <string name="second_order">Second Order: </string>
+    <string name="third_order">Third Order: </string>
+    <string name="time_remained">Time remained: </string>
+    <string name="placetogo">Please go to :</string>
+    <string name="confirm_arrival">Confirm Arrival</string>
+    <string name="prev">preview</string>
+</resources>
